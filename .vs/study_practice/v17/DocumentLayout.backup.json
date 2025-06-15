@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\study_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\loadscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\loadscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\datatableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\datatableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\datatableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\datatableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|c:\\users\\user\\source\\repos\\study_practice\\study_practice\\loadscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E673A3E-0D8B-4980-BF2F-986284E44E13}|study_practice\\study_practice.csproj|solutionrelative:study_practice\\loadscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\MainForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\MainForm.cs",
+              "RelativeToolTip": "study_practice\\MainForm.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAuwD8BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:57:20.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataTableForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\DataTableForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\DataTableForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\DataTableForm.cs",
+              "RelativeToolTip": "study_practice\\DataTableForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:40:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\DataTableForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\DataTableForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\DataTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "study_practice\\DataTableForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:40:19.094Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadScreen.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\LoadScreen.cs",
+              "RelativeDocumentMoniker": "study_practice\\LoadScreen.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\LoadScreen.cs",
+              "RelativeToolTip": "study_practice\\LoadScreen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:32:28.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\Program.cs",
+              "RelativeDocumentMoniker": "study_practice\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\Program.cs",
+              "RelativeToolTip": "study_practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:30:48.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\MainForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "study_practice\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:06:59.904Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\AboutForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\AboutForm.cs",
+              "RelativeToolTip": "study_practice\\AboutForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:29:51.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\AboutForm.cs",
+              "RelativeDocumentMoniker": "study_practice\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "study_practice\\AboutForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:22:15.047Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoadScreen.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\LoadScreen.cs",
+              "RelativeDocumentMoniker": "study_practice\\LoadScreen.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\study_practice\\study_practice\\LoadScreen.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "study_practice\\LoadScreen.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:31:06.324Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
