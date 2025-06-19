@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            button1 = new Button();
             backBtn = new Button();
             canvas = new PictureBox();
             btnShowChart = new Button();
@@ -46,7 +47,6 @@
             tb_R = new TextBox();
             close = new Button();
             Title = new Label();
-            button1 = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)canvas).BeginInit();
             SuspendLayout();
@@ -75,6 +75,19 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(914, 390);
             panel1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            button1.BackColor = SystemColors.GradientActiveCaption;
+            button1.FlatStyle = FlatStyle.Popup;
+            button1.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 204);
+            button1.Location = new Point(564, 341);
+            button1.Name = "button1";
+            button1.Size = new Size(206, 29);
+            button1.TabIndex = 13;
+            button1.Text = "Открыть базу данных";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // backBtn
             // 
@@ -186,7 +199,7 @@
             tb_N.Font = new Font("Verdana", 9F);
             tb_N.Location = new Point(12, 264);
             tb_N.Name = "tb_N";
-            tb_N.PlaceholderText = "Введите количество точек";
+            tb_N.PlaceholderText = "Введите количество точек (N)";
             tb_N.Size = new Size(220, 19);
             tb_N.TabIndex = 5;
             // 
@@ -211,7 +224,7 @@
             tb_C.Font = new Font("Verdana", 9F);
             tb_C.Location = new Point(12, 170);
             tb_C.Name = "tb_C";
-            tb_C.PlaceholderText = "Введите длину секущей (C)";
+            tb_C.PlaceholderText = "Введите координаты секущей (C)";
             tb_C.Size = new Size(220, 19);
             tb_C.TabIndex = 3;
             // 
@@ -272,19 +285,6 @@
             Title.Size = new Size(139, 18);
             Title.TabIndex = 2;
             Title.Text = "Главная форма";
-            // 
-            // button1
-            // 
-            button1.BackColor = SystemColors.GradientActiveCaption;
-            button1.FlatStyle = FlatStyle.Popup;
-            button1.Font = new Font("Verdana", 9F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            button1.Location = new Point(564, 341);
-            button1.Name = "button1";
-            button1.Size = new Size(206, 29);
-            button1.TabIndex = 13;
-            button1.Text = "Открыть базу данных";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
             // 
             // MainForm
             // 

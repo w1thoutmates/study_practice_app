@@ -34,9 +34,15 @@ namespace study_practice
                 double C = double.Parse(tb_C.Text);
                 int N = int.Parse(tb_N.Text);
 
-                if (R <= 0 || N <= 0)
+                if (R <= 0)
                 {
-                    MessageBox.Show("Радиус и количество точек должны быть положительными");
+                    MessageBox.Show("Радиус должен быть положительным");
+                    return;
+                }
+
+                if (N <= 0)
+                {
+                    MessageBox.Show("Колличество точек не может быть нулевым или отрицательным");
                     return;
                 }
 
@@ -46,7 +52,6 @@ namespace study_practice
 
                 DrawCoordinateSystem(g, bmp.Width, bmp.Height, 0, 0, scale);
 
-                // Рисуем окружность
                 PointF circleCenter = LogicalToScreen(x0, y0, scale);
                 float radiusPx = (float)R * scale;
                 g.DrawEllipse(new Pen(Color.Blue, 2), circleCenter.X - radiusPx, circleCenter.Y - radiusPx, radiusPx * 2, radiusPx * 2);
@@ -210,7 +215,7 @@ namespace study_practice
 
         public void Close_click(object sender, EventArgs args)
         {
-            Close();
+            Application.Exit();
         }
 
         private void clearTbs_Click(object sender, EventArgs e)
